@@ -32,7 +32,7 @@ ax.xaxis.set_ticks_position('bottom')
 ax.yaxis.set_ticks_position('left')         
 ax.spines['bottom'].set_position(('data', 0))   
 ax.spines['left'].set_position(('data', 0))
-plt.title("Functional Equation:")
+plt.title("x(t)")
 
 
 plt.show()
