@@ -159,22 +159,22 @@ Label = Label(root)
 Label.pack()
 
 Button1 = Button(root)
-Button1['text'] = '按钮1'
+Button1['text'] = '振幅增大的正弦信号'
 Button1['command'] = hanshu1
 Button1.pack()
 
 Button2 = Button(root)
-Button2['text'] = '按钮2'
+Button2['text'] = '振幅减小的正弦信号'
 Button2['command'] = hanshu2
 Button2.pack()
 
 Button3 = Button(root)
-Button3['text'] = '按钮3'
+Button3['text'] = '        正弦信号       '
 Button3['command'] = hanshu3
 Button3.pack()
 
 Button4 = Button(root)
-Button4['text'] = '按钮4'
+Button4['text'] = '        指数信号       '
 Button4['command'] = hanshu4
 Button4.pack()
 
