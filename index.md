@@ -14,3 +14,12 @@
 
 
 [指数函数](https://github.com/yy783/yy783.github.io/blob/%E6%B5%8B%E8%AF%95/%E5%87%BD%E6%95%B0/%E6%8C%87%E6%95%B0%E5%87%BD%E6%95%B0.py/)
+
+
+
+
+
+
+
+
+[正弦函数](https://github.com/yy783/yy783.github.io/blob/%E6%B5%8B%E8%AF%95/%E5%87%BD%E6%95%B0/%E6%AD%A3%E5%BC%A6%E5%87%BD%E6%95%B0.py/)
