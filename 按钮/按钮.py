@@ -3,9 +3,6 @@ from tkinter import *
 
 
 def hanshu1():
-    k=1
-    k=2
-    a=0
     import numpy as np
     import matplotlib.pyplot as plt
     plt.cla()
