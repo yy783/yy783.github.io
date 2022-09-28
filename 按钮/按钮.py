@@ -4,6 +4,7 @@ from tkinter import *
 
 def hanshu1():
     #jadkhdkasjdkajshd
+    #dsfsdfsdfsd
     import numpy as np
     import matplotlib.pyplot as plt
     plt.cla()
