@@ -12,6 +12,7 @@ t2 = np.arange(-5.0, 5.0, 0.1)
 plt.figure(2)            # Called implicitly but can use# for multiple figures
 plt.subplot(221)      # 2 rows, 1 column, 1stplot
 plt.plot(t1, f(t1), 'b-')
+#hhhhhhhhhhhhhh
 #设置坐标轴范围
 plt.xlim((-5, 5))
 plt.ylim((-1,10))
