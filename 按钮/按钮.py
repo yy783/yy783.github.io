@@ -1,7 +1,11 @@
+from cmath import cos
 from tkinter import *
 
 
 def hanshu1():
+    k=1
+    k=2
+    a=1
     import numpy as np
     import matplotlib.pyplot as plt
     plt.cla()
@@ -13,7 +17,7 @@ def hanshu1():
     
 
     def b(t):
-        return 0.5*c(t)*np.cos(t+0.4)
+        return 0.5*cos(t)*np.cos(t+0.4)
     
 
 

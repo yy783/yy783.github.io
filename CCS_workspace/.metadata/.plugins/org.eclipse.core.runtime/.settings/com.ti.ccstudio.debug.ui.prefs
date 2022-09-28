@@ -1,0 +1,7 @@
+MODULES_MRU_PATH=E\:\\CCS_workspace\\chaoshengbo\\Debug\\chaoshengbo.out
+MODULES_MRU_PATH.1=E\:\\CCS_workspace\\OLED\\Debug\\OLED.out\#THREAD_IDS\#TI MSP430 USB1/MSP430
+MODULES_MRU_PATH.2=E\:\\CCS_workspace\\FollowCar\\Debug\\FollowCar.out\#THREAD_IDS\#TI MSP430 USB1/MSP430
+MODULES_MRU_PATH.3=E\:\\CCS_workspace\\Firstpro\\Debug\\Firstpro.out\#THREAD_IDS\#TI MSP430 USB1/MSP430
+PROMPT_FOR_ADVISOR_REMARKS_ON_LAUNCH=always
+eclipse.preferences.version=1
+useAnnotationsPrefPage=true
